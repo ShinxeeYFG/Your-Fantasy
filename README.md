@@ -1,101 +1,152 @@
 # Your Fantasy
 
-> *A game where your fantasy comes true.*
+> *A living sandbox MMORPG where your fantasy comes true.*
 
-Your Fantasy is a hardcore sandbox MMORPG built in Unreal Engine 5 that emphasizes player freedom, meaningful progression, and social interdependence.
-
-Unlike traditional MMORPGs, there is no chosen hero, no mandatory main storyline, and no predefined path to success. Every player creates their own story through exploration, professions, combat, crafting, commerce, and community.
-
----
-
-# Vision
-
-The goal of Your Fantasy is to create a persistent fantasy world that feels alive.
-
-Every profession should feel like a complete way to experience the game. Whether a player dreams of becoming a blacksmith, seamstress, merchant, adventurer, chef, explorer, or guild leader, their journey should feel meaningful and impactful.
-
-The world is designed around cooperation rather than individual power, allowing players to build reputations, businesses, friendships, and communities that become part of the world's history.
+![Project Status](https://img.shields.io/badge/Status-Live%20Development-blue)
+![Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205-black)
+![Genre](https://img.shields.io/badge/Genre-Sandbox%20MMORPG-green)
 
 ---
 
-# Core Design Principles
+## Welcome
 
-- Every player matters.
-- No player can master every profession.
-- Decisions have meaningful consequences.
-- The player-driven economy is central to progression.
-- Exploration should always feel rewarding.
-- Social interaction should naturally emerge through game systems rather than be forced.
-- The world should encourage players to create their own stories instead of following someone else's.
+**Your Fantasy** is a long-term sandbox MMORPG being built in **Unreal Engine 5**.
+
+More than just a game, it is a persistent world that will continue to evolve throughout development. Every new system, town, profession, dungeon, and feature becomes part of the world's history.
+
+Players won't simply receive expansions—they'll experience the world changing alongside its development.
+
+This repository documents that journey.
 
 ---
 
-# Current Progress
+# Our Vision
 
-## Prototype
+Most MMORPGs tell players who they should become.
 
-- ✅ Prototype environment
-- ✅ Prototype Starter town
-- ✅ Landscape and foliage system
-- ✅ Imported modular buildings
-- ⬜ Main Menu
-- ⬜ Login UI
-- ⬜ Dedicated Server
-- ⬜ Authentication API
-- ⬜ Character Database
-- ... and much much more
+**Your Fantasy** asks a different question.
+
+> **Who do you want to become?**
+
+There is no chosen hero.
+
+There is no mandatory main storyline.
+
+There is no single "correct" way to play.
+
+Every player's story is their own.
+
+Whether you dream of becoming:
+
+- A legendary adventurer
+- A master blacksmith
+- A famous seamstress
+- A respected merchant
+- A renowned chef
+- A fisherman
+- A guild leader
+- A tavern owner
+
+...your contribution should matter.
+
+---
+
+# A Living World
+
+One of the core goals of **Your Fantasy** is to create a world that evolves over time.
+
+This project is being developed publicly, and the game itself will grow alongside its community.
+
+As development progresses, players may witness:
+
+- New cities being constructed
+- Regions expanding
+- New professions becoming available
+- Seasonal events
+- Gameplay systems evolving
+- Community-driven changes
+
+The world isn't meant to feel finished.
+
+It's meant to feel alive.
+
+---
+
+# Current Development
+
+Current Phase
+
+**Chapter 1 — Foundation**
+
+Current Focus
+
+- Repository setup
+- Documentation
+- Unreal Engine prototype
+- Backend architecture
+- Git workflow
+- Dedicated server planning
 
 ---
 
 # Technology
 
-Current
+Current technologies include:
 
-- Unreal Engine 5.8
+- Unreal Engine 5
 - C++
-- Blueprints
-- Git
-- GitHub
-
-Planned
-
-- PostgreSQL
-- Dedicated Linux Server
-- REST API
-- Azure Virtual Machine
-- GitHub Actions
-- CI/CD Pipeline
+- Git & GitHub
+- Backend API (planned)
+- PostgreSQL (planned)
+- Azure Virtual Machines (planned)
+- CI/CD (planned)
 
 ---
 
-# Repository
+# Documentation
 
-This repository contains:
+Project documentation can be found in the `/docs` directory.
 
-- Unreal Engine project
-- Technical documentation
-- Development logs
-- Architecture documentation
-- Server setup guides
-- Backend planning
-- Project roadmap
+Included documentation:
 
----
-
-# Development Philosophy
-
-This repository documents the complete development journey of Your Fantasy—from an empty landscape to a fully persistent multiplayer world.
-
-Every milestone, architectural decision, lesson learned, and technical challenge is documented throughout development.
+- Design Philosophy
+- System Architecture
+- Development Logs
+- Technical Support Guides
+- API Design
+- Database Planning
 
 ---
 
-# Roadmap
+# Follow Development
 
-The current roadmap is available in ROADMAP.md.
+Development is documented publicly through:
+
+- GitHub commits
+- Development Logs
+- Sprint planning
+- Roadmap updates
+
+This repository is intended to showcase not only the game itself, but also the engineering practices used to build it.
 
 ---
 
-# License
+# Project Philosophy
 
-Currently under active development.
+Your Fantasy is built around one simple belief:
+
+> **Every player deserves to feel that the time they spend in the world was meaningful.**
+
+Whether you're defeating monsters, crafting equipment, helping your guild, fishing with friends, or simply decorating a home, every playstyle should feel valuable.
+
+---
+
+# Current Status
+
+🚧 Live Development
+
+This project is actively under development.
+
+Expect frequent commits, documentation updates, experimentation, and occasional redesigns as the world continues to grow.
+
+The journey is just getting started.
