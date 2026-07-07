@@ -32,6 +32,8 @@ Created the first prototype multiplayer landing area that will eventually become
 - Created the first cobblestone town layout
 - Experimented with modeling mode to create large walkable surfaces
 
+
+
 ### Lessons Learned
 
 One of the biggest challenges today involved understanding how Unreal handles texture coordinates versus world-aligned textures.
